@@ -1,6 +1,22 @@
 # education_app
 
-A new Flutter project.
+App Introduction
+Our App is based on the DATA STRUCTURES course CS102 that we studied in second
+Semester. In our app we tried to explain the concepts of Searching and Sorting through
+animation until now (further we will be explaining all the concepts as well) and we explained
+two Searching and four Sorting algorithms through animation.
+Searching Algorithms :-
+1. Linear Search
+2. Binary Search
+Sorting Algorithms
+1. Selection Sort
+2. Quick Sort
+3. Insertion Sort
+4. Bubble Sort
+Further we also provided a feature where the user can test his or her knowledge of
+concepts by attempting quiz. The quizzes can be created by teacher also to conduct tests.
+We have also provided resources for all topic in PDF format where the conceptual
+explanation as well as the Codes are available for the user.
 
 ## Getting Started
 
