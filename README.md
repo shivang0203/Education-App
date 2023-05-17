@@ -17,7 +17,7 @@ concepts by attempting quiz. The quizzes can be created by teacher also to condu
 We have also provided resources for all topic in PDF format where the conceptual
 explanation as well as the Codes are available for the user.
 
-**App Features**
+**App Features**<br>
 The next section includes all the screenshots of our App that will help u to understand all the
 features of our app.
 <img width="773" alt="Screenshot 2023-05-17 at 1 29 17 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/1e6c1af4-361e-4a82-9ced-2bdc03f7b626">
@@ -30,7 +30,7 @@ features of our app.
 <img width="558" alt="Screenshot 2023-05-17 at 1 33 02 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/388dbeae-05bc-49ad-8f2b-b775ee86f0ce">
 <img width="559" alt="Screenshot 2023-05-17 at 1 33 16 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/3a586f50-a47a-4f7e-9b1e-9ea4203aab25">
 <img width="555" alt="Screenshot 2023-05-17 at 1 33 30 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/9110eac9-0299-4eb6-808a-c5b3d3be1f3b">
-<img width="558" alt="Screenshot 2023-05-17 at 1 33 47 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/7ef90ef1-e2d1-4404-a72f-121f008ea171">
+<img width="558" alt="Screenshot 2023-05-17 at 1 33 47 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/7ef90ef1-e2d1-4404-a72f-121f008ea171"><br>
 **Link to video demonstration** : https://drive.google.com/file/d/1Dq5Lqy7Q81YGy1Mu2bCDuaimBkvDUYSg/view?usp=share_link
 ## Getting Started
 
