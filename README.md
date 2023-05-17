@@ -1,6 +1,5 @@
 # education_app
 
-App Introduction
 Our App is based on the DATA STRUCTURES course CS102 that we studied in second
 Semester. In our app we tried to explain the concepts of Searching and Sorting through
 animation until now (further we will be explaining all the concepts as well) and we explained
