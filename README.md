@@ -31,7 +31,7 @@ features of our app.
 <img width="559" alt="Screenshot 2023-05-17 at 1 33 16 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/3a586f50-a47a-4f7e-9b1e-9ea4203aab25">
 <img width="555" alt="Screenshot 2023-05-17 at 1 33 30 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/9110eac9-0299-4eb6-808a-c5b3d3be1f3b">
 <img width="558" alt="Screenshot 2023-05-17 at 1 33 47 PM" src="https://github.com/shivang0203/Education-App/assets/94477758/7ef90ef1-e2d1-4404-a72f-121f008ea171">
-
+**Link to video demonstration** : https://drive.google.com/file/d/1Dq5Lqy7Q81YGy1Mu2bCDuaimBkvDUYSg/view?usp=share_link
 ## Getting Started
 
 This project is a starting point for a Flutter application.
